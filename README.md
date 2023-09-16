@@ -44,7 +44,6 @@
         .search{
             margin-top: 15px;
             margin-right: 20px;
-            
         }
         input{
             padding: 5px;
@@ -70,7 +69,6 @@
           margin-top: 10px;
           padding:10px;
           text-align: center;
-         
         }
         #bt1{
             background-color: rgba(25, 22, 22, 0.821);
@@ -101,7 +99,6 @@
             padding-right: 15px;
            border: none;
            border-radius: 5px;
-           
         }
         .c2{
             width: 720px;
@@ -118,12 +115,10 @@
              margin-left: 15px;
              margin-right: -22px;
              margin-bottom: 10px;
-
         }
         .card-img{
             width: 100%;
-            border-radius: 5px 5px 0px 0px;
-            
+            border-radius: 5px 5px 0px 0px;   
         }
         .card-p{
              margin-top: -1px; 
@@ -159,7 +154,6 @@
             border-radius: 10px;
             margin-bottom: 15px;
         }
-
         .Genres1 div{
             border-radius: 10px 10px 0px 0px;
           text-align: center;
@@ -167,8 +161,7 @@
           font-size: 15px;
           background-color: rgb(36, 34, 34);
           border-bottom: 1px solid rgb(34, 33, 33); 
-          color: rgba(255, 217, 0, 0.911);
-          
+          color: rgba(255, 217, 0, 0.911);   
         }
         .Genres2 div{
             border-radius: 10px 10px 0px 0px;
@@ -177,8 +170,7 @@
           font-size: 15px;
           background-color: rgb(36, 34, 34);
           border-bottom: 1px solid rgb(34, 33, 33); 
-          color: rgba(255, 217, 0, 0.911);
-          
+          color: rgba(255, 217, 0, 0.911); 
         }
         #a1{
             margin-top: 7px;
@@ -197,8 +189,6 @@
             font-size: 25px;
             text-align: center;
         }
-        
-       
     </style>
 </head>
 <body background="imeges/bg.webp">
@@ -259,7 +249,6 @@
                   <p class="card-p">Bahubali-2 (2023) HDRip Telugu Movie Watch Online</p>
                   <span class="lang">Telugu</span>
            </div>
-
          </div>
          <div class="c2">
            <div class="card">
@@ -282,7 +271,6 @@
                  <p class="card-p">Ps-2(2023) HDRip Telugu Movie Watch Online</p>
                  <span class="lang">Telugu</span>
           </div>
-              
         </div>
         <div class="c2">
            <div class="card">
@@ -305,7 +293,6 @@
                  <p class="card-p">Mem Famous (2023) HDRip Telugu Movie Watch Online</p>
                  <span class="lang">Telugu</span>
           </div>
-              
         </div>
         <div class="c2">
            <div class="card">
@@ -327,9 +314,7 @@
                  <img src="imeges/spy.jpeg" class="card-img">
                  <p class="card-p">Spy (2023) HDRip Telugu Movie </p>
                  <span class="lang">Telugu</span>
-          </div>
-          
-              
+          </div>   
         </div>
         <div class="c1">
             <p>Trending <u>HOLLYWOOD</u> web-series</p>
@@ -356,7 +341,6 @@
                   <p class="card-p">Breaking Bad HDRip web-series Watch Online</p>
                   <span class="lang">English</span>
            </div>
-               
          </div>
          <div class="c1">
             <p>Trending <u>INDIAN</u> web-series</p>
@@ -383,10 +367,7 @@
                   <p class="card-p">Scam 2003 HDRip Hindi web-series Watch Online</p>
                   <span class="lang">Hindi</span>
            </div>
-               
-         </div>
-         
-               
+         </div>   
          </div>
           </div>
          <aside class="right">
@@ -446,10 +427,8 @@
                 <button id="a1">2003</button>
                 <button id="a1">2002</button>
                 <button id="a1">2001</button>
-                
             </div>
         </aside>
-    
     </main>
     <footer class="container-1">
         <div class="container1">"Copyright Policy / DMCA"</div>
